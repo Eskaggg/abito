@@ -786,8 +786,8 @@ p {
 .soon h4 {
     font-size: 2em;
     margin: 1em 0 2em;
-    color: #00b300;
-    font-family: 'Tangerine', cursive;
+    color: white;
+    font-family: 'Offside', cursive;
     background: rgba(0, 0, 0, 0.75);
     display: inline-block;
     padding: .5em 1em;
