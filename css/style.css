@@ -188,7 +188,7 @@ ul.cd-dropdown-content li {
     height: 50px;
     outline: none;
     box-shadow: none;
-    background: #f44336;
+    background: #000000;
     padding: 0;
     border-radius: inherit;
     -webkit-appearance: none;
@@ -212,7 +212,7 @@ ul.cd-dropdown-content li {
     float: left;
 }
 .w3view-cart {
-    background: #0280e1;
+    background: #e10202;
     border: none;
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
